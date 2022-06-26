@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Dropzone project in React for the Frontend Hackhaton of Barcelona Digital Talent
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built in React and CSS by August Ollé Corbella.
 
-## Available Scripts
 
-In the project directory, you can run:
+
+
 
 ### `npm start`
 
